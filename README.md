@@ -1,7 +1,6 @@
 # news-web-scrapping-using-python
 
 
-Certainly! Below is a sample README for your Flask-based News Scraper:
 
 Python News Scraper with Flask
 This Python web application leverages Flask, BeautifulSoup, and Requests to scrape news articles from various sources. The project provides a simple web interface to view the latest news headlines, summaries, and additional details.
